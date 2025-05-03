@@ -1,0 +1,54 @@
+@BugTicketingSystem.API_HostAddress = http://localhost:5196
+
+
+### LogIn
+POST {{BugTicketingSystem.API_HostAddress}}/api/Users/Login
+Accept: application/json
+Content-Type: application/json
+{
+    "userName": "MohamedAbdelsadek",
+    "password": "Sadek@123"
+}
+### Register
+POST {{BugTicketingSystem.API_HostAddress}}/api/Users/Register
+Accept: application/json
+Content-Type: application/json
+{
+    "userName": "MohamedAbdelsadek",
+    "email":"robinvanhood20@gmail.com",
+    "password": "Sadek@123",
+    "role": "Manager"
+}
+
+### Get All Projects
+GET {{BugTicketingSystem.API_HostAddress}}/api/Projects
+Accept: application/json
+
+### Get Project By Id
+GET {{BugTicketingSystem.API_HostAddress}}/api/Projects/f8449908-8572-45cd-8c52-99ad34fec813
+Accept: application/json
+
+### Create Project
+POST {{BugTicketingSystem.API_HostAddress}}/api/Projects
+Accept: application/json
+Content-Type: application/json
+{
+    "name": "Project ASP API",
+    "description": "Project 1 Description" 
+}
+### Get All Bugs
+GET {{BugTicketingSystem.API_HostAddress}}/api/Bugs
+Accept: application/json
+### Get Bug By Id
+GET {{BugTicketingSystem.API_HostAddress}}/api/Bugs/e1a85fd7-8626-4c71-861c-77ae6265eabb
+Accept: application/json
+
+### Add Bug
+POST {{BugTicketingSystem.API_HostAddress}}/api/Bugs
+Accept: application/json
+Content-Type: application/json
+{ 
+     "title" : "Bug 5",
+     "description" : "Bug in Attaching a photo to the Bug",
+     "status" : "Open"
+}

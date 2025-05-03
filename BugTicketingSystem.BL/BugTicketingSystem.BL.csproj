@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	  <ItemGroup>
+	
+		 <PackageReference Include="Azure.Storage.Blobs" Version="12.24.0" />
+	
+		 <PackageReference Include="FluentValidation" Version="11.11.0" />
+	  <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
+	  <PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="9.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BugTicketingSystem.DAL\BugTicketingSystem.DAL.csproj" />
+    <ProjectReference Include="..\BugTicketingSystem.Shared\BugTicketingSystem.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,44 @@
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.deps.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.runtimeconfig.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.pdb
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.csproj.AssemblyReference.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.AssemblyInfoInputs.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.AssemblyInfo.cs
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\refint\BugTicketingSystem.DAL.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.pdb
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.genruntimeconfig.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\ref\BugTicketingSystem.DAL.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.sourcelink.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.deps.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.runtimeconfig.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.pdb
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.sourcelink.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\refint\BugTicketingSystem.DAL.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.pdb
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.genruntimeconfig.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\ref\BugTicketingSystem.DAL.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.deps.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.runtimeconfig.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\bin\Debug\net9.0\BugTicketingSystem.DAL.pdb
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\refint\BugTicketingSystem.DAL.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.pdb
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\BugTicketingSystem.DAL.genruntimeconfig.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.DAL\obj\Debug\net9.0\ref\BugTicketingSystem.DAL.dll

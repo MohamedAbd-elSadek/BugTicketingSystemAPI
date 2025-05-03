@@ -1,0 +1,167 @@
+STEPS:-
+
+## Creating Git Folder
+
+>> mkdir myproject
+>> cd myproject
+----------------- Setup Git -----------------
+
+git init => Initialize the git repo
+
+----------- => add what you did in the file
+>> git add index.html
+>> git add --all  >> git add -A    >> git add .
+
+--------------------=> commit your changes with a message
+git commit -m "Message" 
+
+or
+
+git commit -am "Message" => do the same as add + commit
+
+
+git commit --amend => Edit the message of the latest commit
+
+----------------- Connect GitHub Repo to the file -----------------
+
+git branch -m main => Create and go for the main branch
+
+git remote add origin ________ => Connect the GitHub Repo with the folder using GitHub Link
+
+
+----------------- Push Changes to the remote Repo -----------------
+
+git push -u origin main => Push the changed data into the repo
+
+--> "the main branch can be changed depends on the branch you want to push into" 
+
+Note: make sure to add your email and username using these commands:
+git config --global user.email 
+git config --global user.name
+
+
+----------------- Add Branches -----------------
+
+>> git branch _____ => Create new branch
+
+>> git branch => to get all the branches you got
+
+
+----------------- Navigate Branches -----------------
+
+>> git checkout _____ => to go from one branch to another
+
+## create new branch and checkout in one command
+
+>> git checkout -b branch name
+
+
+
+## head >> pointer to latest change can be (role back & fast-forward)
+
+>> git reset HEAD~2 >>> role back
+
+>> git reset --head id >>> fast-forward
+
+## git reset >>>> return
+
+## commit and add direct in one line 
+>> git commit -am "first commit" 
+
+
+>>> give tag to current commit
+>> git tag ""    
+
+----------------- Stash -----------------
+
+git stash => to take modified latest code from one branch to another
+
+git stash apply => to apply what you modified in the branch you wanted
+
+git stash list => used to inform you of what you are moving from one branch to another which is saved in the clipboard
+
+git stash pop => to clear the stash from any data
+----------------------
+
+## To view the history of commits for a repository, you can use the log command:
+
+>> git log
+
+>> git log --oneline   // short info
+
+>> git reflog /////show all changes
+
+
+
+-----------------------------------
+>> ls  >> will list the files in the directory.
+
+## Then we check the Git status and see if it is a part of our repo:
+
+>> git status
+
+>> git status --short
+ 	M index.html
+
+##	Note: Short status flags are:
+
+	?? - Untracked files
+	A - Files added to stage
+	M - Modified files
+	D - Deleted files
+
+
+#########################################
+
+
+
+>> git command -help 
+##  See all the available options for the specific command
+
+>> git help --all 
+##  See all possible commands
+
+
+## Working with Git Branches
+	In Git, a branch is a new/separate version of the main repository.
+	
+##	New Git Branch
+Let add some new features to our index.html page.
+
+We are working in our local repository, and we do not want to disturb or possibly wreck the main project.
+
+
+
+- Repository >>> repo المخزن
+- Branch
+- local repo >> my pc
+- remote repo
+- commit (snapshot or checkpoint in your local repo)
+
+- clone (استنساخ) >> (from local or remote)
+
+- push [upload local changes to remote]
+
+- pull [you pull changes from remote repo to your local]
+
+- pull Request [tell other about your changes to pull it from local to remote]
+
+- create repo for every project 
+- create new branch for every feature or enhancement
+
+- no need to connect to remote repo when work
+-What does Git do?
+
+	>>Manage projects with Repositories
+
+	>>Clone a project to work on a local copy
+
+	>>Control and track changes with Staging and Committing
+
+	>>Branch and Merge to allow for work on different parts and versions of a project
+
+	>>Pull the latest version of the project to a local copy
+
+	>>Push local updates to the main project
+
+

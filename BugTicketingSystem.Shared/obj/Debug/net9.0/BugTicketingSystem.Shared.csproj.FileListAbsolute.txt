@@ -1,0 +1,59 @@
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\bin\Debug\net9.0\BugTicketingSystem.Shared.deps.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\bin\Debug\net9.0\BugTicketingSystem.Shared.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\bin\Debug\net9.0\BugTicketingSystem.Shared.pdb
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\bin\Debug\net9.0\ar\BugTicketingSystem.Shared.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\bin\Debug\net9.0\en\BugTicketingSystem.Shared.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.Resources.SharedResources.resources
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.Resources.SharedResources.ar.resources
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.Resources.SharedResources.en.resources
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.csproj.GenerateResource.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.AssemblyInfoInputs.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.AssemblyInfo.cs
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.csproj.CoreCompileInputs.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\ar\BugTicketingSystem.Shared.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\en\BugTicketingSystem.Shared.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\refint\BugTicketingSystem.Shared.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.pdb
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\ref\BugTicketingSystem.Shared.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.sourcelink.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\BugTicketingSystem.Shared.deps.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\BugTicketingSystem.Shared.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\BugTicketingSystem.Shared.pdb
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\ar\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\en\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.Resources.SharedResources.resources
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.Resources.SharedResources.ar.resources
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.Resources.SharedResources.en.resources
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.csproj.GenerateResource.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.sourcelink.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\ar\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\en\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\refint\BugTicketingSystem.Shared.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.pdb
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\ref\BugTicketingSystem.Shared.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\BugTicketingSystem.Shared.deps.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\BugTicketingSystem.Shared.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\BugTicketingSystem.Shared.pdb
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\ar\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\bin\Debug\net9.0\en\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.Resources.SharedResources.resources
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.Resources.SharedResources.ar.resources
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.Resources.SharedResources.en.resources
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.csproj.GenerateResource.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\ar\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\en\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\refint\BugTicketingSystem.Shared.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\BugTicketingSystem.Shared.pdb
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.Shared\obj\Debug\net9.0\ref\BugTicketingSystem.Shared.dll

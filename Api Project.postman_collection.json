@@ -1,0 +1,414 @@
+{
+	"info": {
+		"_postman_id": "83cc92b7-33ac-411d-bfb8-304237ad284d",
+		"name": "Api Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42609641"
+	},
+	"item": [
+		{
+			"name": "User Auth",
+			"item": [
+				{
+					"name": "http://localhost:5196/api/Users/Register",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"userName\": \"Mostafa\",\r\n    \"email\":\"mostafa@gmail.com\",\r\n    \"password\": \"Mostafa@123\",\r\n    \"role\": \"Manager\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5196/api/Users/Register",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"Users",
+								"Register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:5196/api/Users/Login",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImVuZ21vc3RhZmFickBnbWFpbC5jb20iLCJpZCI6IjY3ZTFmMWE2ZTI3YWY3Yjk0NzUzM2E0ZCIsInJvbGUiOiJ1c2VyIiwibG9nZ2VkQXQiOiIyMDI1LTAzLTI2VDAwOjEzOjMzLjAwN1oiLCJpYXQiOjE3NDI5NDgwMTMsImV4cCI6MTc0MzU1MjgxM30.TJaf5hZaNPrAWuAv1GQ474NJlwcauJe99seqTAkq7FQ",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"userName\": \"Mostafa\",\r\n    \"password\": \"Mostafa@123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5196/api/Users/Login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"Users",
+								"Login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Projects",
+			"item": [
+				{
+					"name": "http://localhost:5196/api/Projects",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5196/api/Projects",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"Projects"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:5196/api/Projects/f8449908-8572-45cd-8c52-99ad34fec813",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5196/api/Projects/f8449908-8572-45cd-8c52-99ad34fec813",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"Projects",
+								"f8449908-8572-45cd-8c52-99ad34fec813"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:5196/api/Projects",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"Project Test\",\r\n    \"description\": \"Testing JWT project creation\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5196/api/Projects",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"Projects"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Bugs",
+			"item": [
+				{
+					"name": "http://localhost:5196/api/Bugs",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5196/api/Bugs",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"Bugs"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:5196/api/Bugs/ee3974f0-3c40-4a0a-a640-f1c2f1e8e282",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5196/api/Bugs/ee3974f0-3c40-4a0a-a640-f1c2f1e8e282",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"Bugs",
+								"ee3974f0-3c40-4a0a-a640-f1c2f1e8e282"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:5196/api/Bugs",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"Migration Crash\",\r\n  \"description\": \"The Migration crashes when seeding data.\",\r\n  \"status\": \"InProgress\", \r\n  \"projectId\": \"b9e062ff-3be5-4b4f-a498-57bb8969c89e\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5196/api/Bugs",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"Bugs"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Users-Bugs",
+			"item": [
+				{
+					"name": "http://localhost:5196/api/bugs/{{bugId}}/assignees?bugId={{bugId}}&userId={{userId}}",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5196/api/bugs/5EB6951B-F203-4285-523C-08DD81AB83E1/assignees?bugId=5EB6951B-F203-4285-523C-08DD81AB83E1&userId=1D03EC7D-05E7-4731-92DF-08DD813277D6",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"bugs",
+								"5EB6951B-F203-4285-523C-08DD81AB83E1",
+								"assignees"
+							],
+							"query": [
+								{
+									"key": "bugId",
+									"value": "5EB6951B-F203-4285-523C-08DD81AB83E1"
+								},
+								{
+									"key": "userId",
+									"value": "1D03EC7D-05E7-4731-92DF-08DD813277D6"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:5196/api/bugs/{{bugId}}/assignees/{{userId}}",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5196/api/bugs/EE3974F0-3C40-4A0A-A640-F1C2F1E8E282/assignees/1D03EC7D-05E7-4731-92DF-08DD813277D6",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"bugs",
+								"EE3974F0-3C40-4A0A-A640-F1C2F1E8E282",
+								"assignees",
+								"1D03EC7D-05E7-4731-92DF-08DD813277D6"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Attachments",
+			"item": [
+				{
+					"name": "http://localhost:5196/api/bugs/{bugId}/attachments",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5196/api/bugs/EE3974F0-3C40-4A0A-A640-F1C2F1E8E282/attachments",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"bugs",
+								"EE3974F0-3C40-4A0A-A640-F1C2F1E8E282",
+								"attachments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:5196/api/bugs/{bugId}/attachments",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/D:/samsung/DCIM/My photos/IMG-20220508-WA0021.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://localhost:5196/api/bugs/5EB6951B-F203-4285-523C-08DD81AB83E1/attachments",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5196",
+							"path": [
+								"api",
+								"bugs",
+								"5EB6951B-F203-4285-523C-08DD81AB83E1",
+								"attachments"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

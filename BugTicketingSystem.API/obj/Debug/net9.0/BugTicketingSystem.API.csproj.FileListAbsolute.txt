@@ -1,0 +1,563 @@
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\appsettings.Development.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\appsettings.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.staticwebassets.endpoints.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.exe
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.deps.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.runtimeconfig.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.pdb
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Core.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Storage.Common.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\FluentValidation.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Humanizer.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.IO.Hashing.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.BL.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.DAL.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.Shared.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.BL.pdb
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.DAL.pdb
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.Shared.pdb
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\ar\BugTicketingSystem.Shared.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\en\BugTicketingSystem.Shared.resources.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.csproj.AssemblyReference.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.AssemblyInfoInputs.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.AssemblyInfo.cs
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.csproj.CoreCompileInputs.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\scopedcss\bundle\BugTicketingSystem.API.styles.css
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.BugTicketingSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.BugTicketingSystem.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.build.BugTicketingSystem.API.props
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BugTicketingSystem.API.props
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BugTicketingSystem.API.props
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicke.E8C472F2.Up2Date
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\refint\BugTicketingSystem.API.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.pdb
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.genruntimeconfig.cache
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\ref\BugTicketingSystem.API.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Iti_9_month_Dot_Net_CRM\ASP.NET\BugTicketingSystemProject\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.sourcelink.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\appsettings.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.staticwebassets.endpoints.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.exe
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.deps.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.runtimeconfig.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.pdb
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.IO.Hashing.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.BL.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.DAL.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.Shared.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.BL.pdb
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.DAL.pdb
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.Shared.pdb
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ar\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\en\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.sourcelink.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\scopedcss\bundle\BugTicketingSystem.API.styles.css
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.BugTicketingSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.BugTicketingSystem.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.build.BugTicketingSystem.API.props
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BugTicketingSystem.API.props
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BugTicketingSystem.API.props
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicke.E8C472F2.Up2Date
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\refint\BugTicketingSystem.API.dll
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.pdb
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.genruntimeconfig.cache
+C:\Users\robin\OneDrive\Desktop\New Project\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\ref\BugTicketingSystem.API.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\appsettings.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.staticwebassets.endpoints.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.exe
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.deps.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.runtimeconfig.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.API.pdb
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.IO.Hashing.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.BL.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.DAL.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.Shared.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.BL.pdb
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.DAL.pdb
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\BugTicketingSystem.Shared.pdb
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\ar\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\bin\Debug\net9.0\en\BugTicketingSystem.Shared.resources.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\scopedcss\bundle\BugTicketingSystem.API.styles.css
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.BugTicketingSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.BugTicketingSystem.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.build.BugTicketingSystem.API.props
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BugTicketingSystem.API.props
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BugTicketingSystem.API.props
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicke.E8C472F2.Up2Date
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\refint\BugTicketingSystem.API.dll
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.pdb
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\BugTicketingSystem.API.genruntimeconfig.cache
+C:\Users\robin\OneDrive\Desktop\Newww\Bug_Ticketing_System_ASPCoreAPI_Project\BugTicketingSystem.API\obj\Debug\net9.0\ref\BugTicketingSystem.API.dll
